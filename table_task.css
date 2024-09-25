@@ -1,0 +1,37 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    background-color: yellow;
+}
+th{
+    text-align: center;
+    align-items: center;
+    
+    background-color: yellow;
+    padding: 10px;
+    margin: 5px;
+    
+
+}
+.gra{
+    background-color: rgb(196, 193, 193);
+}
+tbody tr td{
+    text-align: center;
+    /* align-items: center; */
+    
+    padding: 10px;
+    margin: 5px;
+    
+
+}
+.pin{
+    background-color: pink;
+    padding: 30px;
+  
+}
